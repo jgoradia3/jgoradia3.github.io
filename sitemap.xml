@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://jgoradia3.github.io/</loc></url><url><loc>https://jgoradia3.github.io/publications/identity-fabric/</loc></url><url><loc>https://jgoradia3.github.io/publications/healthcare-critical-infrastructure/</loc></url><url><loc>https://jgoradia3.github.io/publications/when-systems-act-for-users/</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://jgoradia3.github.io/</loc></url>
+<url><loc>https://jgoradia3.github.io/publications/ai-production-governance/</loc></url>
+<url><loc>https://jgoradia3.github.io/publications/api-authentication/</loc></url>
+<url><loc>https://jgoradia3.github.io/publications/cicd-non-human-identities/</loc></url>
+<url><loc>https://jgoradia3.github.io/publications/cross-account-access/</loc></url>
+<url><loc>https://jgoradia3.github.io/publications/cti-ai-agents/</loc></url>
+<url><loc>https://jgoradia3.github.io/publications/healthcare-critical-infrastructure/</loc></url>
+<url><loc>https://jgoradia3.github.io/publications/iam-policy-types/</loc></url>
+<url><loc>https://jgoradia3.github.io/publications/identity-fabric/</loc></url>
+<url><loc>https://jgoradia3.github.io/publications/when-systems-act-for-users/</loc></url>
+</urlset>
