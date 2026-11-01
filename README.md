@@ -32,3 +32,9 @@ Run `python3 -m http.server 8000` in this directory and open http://localhost:80
 - Bibliographic record: https://eurekamag.com/research/111/987/111987771.php
 - RSAC publication and author identity: https://www.rsaconference.com/library/blog/the-new-cti-blind-spot-ai-agents-and-non-human-identities
 - ScopedAct README and research mapping: https://github.com/jgoradia3/scopedact
+
+## Healthcare paper addition
+- Title and author order confirmed in the conference program: https://edas.info/web/southeastcon2026/program.html
+- DOI and overview checked against https://eurekamag.com/research/106/284/106284511.php
+- Pages and full author names cross-checked with https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202602211080035702
+- IEEE page returned HTTP 400 in browser. Overview is a paraphrase; no full text is reproduced.
