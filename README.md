@@ -38,3 +38,7 @@ Run `python3 -m http.server 8000` in this directory and open http://localhost:80
 - DOI and overview checked against https://eurekamag.com/research/106/284/106284511.php
 - Pages and full author names cross-checked with https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202602211080035702
 - IEEE page returned HTTP 400 in browser. Overview is a paraphrase; no full text is reproduced.
+
+## CV publication audit
+Added published ACM Interactions feature, two AWS Security Blog posts, Security Boulevard, DevOps.com, and DZone. Titles, authors and dates checked against publisher pages. AWS IAM policy article uses its March 2026 update date; its original publication date is June 3, 2022. DZone uses the current publisher title.
+ICISS paper excluded: user confirmed accepted but unpublished. ISSA and the two under-review papers excluded. No employment duties, readership statistics, private CV file, judging activity, or future service claims added.
